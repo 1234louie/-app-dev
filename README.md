@@ -1,16 +1,10 @@
 # -app-dev
  My first repository.
-### My favorite series/movie {#custom-id}
-```
-{
-  "firstName": "Avengers",
-  "lastName": "Age of ultron",
-  "Year": 2019
-  "firstName": "Avengers",
-  "lastName": "ENDGAME",
-  "Year": 2020
-  "firstName": "Money Heist",
-  "lastName": "Series",
-  "Year": 2020
-}
-```
+# My Favorite Movies/Series
+**bold text**
+1. Iron Man
+2. Thor: Love and Thunder
+3. The Hulk
+[Iron Man]([https://www.example.com](https://www.imdb.com/title/tt0371746/)
+[Thor: Love and Thunder](https://www.marvel.com/movies/thor-love-and-thunder)
+[The Hulk](https://www.imdb.com/title/tt0286716/)
